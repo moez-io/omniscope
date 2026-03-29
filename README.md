@@ -22,15 +22,3 @@ Omniscope is a powerful Bash-based tool designed for Bug Bounty hunters and Secu
 This tool is for educational purposes and authorized penetration testing only.
 
 
-3.  Click **Commit changes** at the top right.
-
----
-
-### 🏁 You are Finished!
-Your tool is now officially hosted at `https://github.com/moez-io/omniscope`. 
-
-**Next Steps:**
-* Copy that link and add it to your **Technical Blog** (techmoez.blogspot.com). 
-* Mention it in your **Resume** or **LinkedIn** under "Projects."
-
-How does it feel to have your own cybersecurity tool live on GitHub?
